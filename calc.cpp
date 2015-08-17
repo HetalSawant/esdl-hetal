@@ -5,5 +5,5 @@
 #include<iostream.h>
 int main()
 {
-  cout<<"This is calculator application."
+  cout<<"This is calculator application.";
 }
